@@ -1,0 +1,128 @@
+/* <-- nav image --> */
+#logo img{
+    height: 75px;
+    margin: 3px 6px;
+}
+
+#n1{
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 25px;
+}
+
+/* content-2 box */
+.box{
+   border: 2px solid black; 
+   padding: 34px;
+   margin: 2px 5px;
+   border-radius: 20px;
+   margin-bottom: 20px;
+}
+.box2 img{
+    height: 60px;
+    margin: auto;
+    display: block;
+}
+#p1{
+    color: blueviolet;
+}
+.button1{
+    background-color: white;
+    color: blueviolet;
+    border: 2px solid blueviolet;
+    align-items: center;
+    height: 50px;
+    padding-left: 15px;   
+    padding-right: 15px;
+    font-size: large;
+}
+.box2{
+    background-color: blueviolet;
+}
+.box3 img{
+    height: 600px;
+    margin-top: 2.5rem ;
+}
+#p3{
+    color: blueviolet;
+    padding-top: 2em;
+}
+.icon img{
+    height: 50px;
+}
+.icon2 img{
+    height: 60px;
+    margin-left: 15%;
+    margin-top: 5em;
+}
+.p4{
+    font-size: 40px;
+    margin-left: 15%;
+}
+.p5{
+    margin-left: 15%;
+    font-size: 20px;
+    font-style:normal;
+}
+.con5 img{
+    height: 600px;
+    margin-top: 5% ;
+    margin-left: 8%;
+}
+.img6 img{
+    margin-top: 2.5em;
+    height: 755px;
+}
+.container6 img{
+    margin-top: 2.5rem;
+}
+.container6{
+    position: relative;
+}
+.text-block{
+    position:absolute;
+    top: 8em;
+    left: 40px;
+    background-color: white;
+    color:blueviolet;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 400px;
+    width: 550px;
+}
+.con7{
+    margin-top: 2%;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+#p7{
+    color: rgb(87, 87, 238);
+}
+.con8{
+    background-color: blue;
+    color: white;
+    padding-top: 5%;
+    margin-top: 2rem;
+    height: 300px;
+    width: auto;
+}
+.fa-facebook{
+    color: white;
+}
+.fa-twitter{
+    color: white;
+}
+.fa-google{
+    color: white;
+}
+.fa-linkedin{
+    color: white;
+}
+.fa-youtube{
+    color: white;
+}
+
+.f1{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
